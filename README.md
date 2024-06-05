@@ -52,14 +52,69 @@ Client
 
 ### Package.json
 Generates a package.json file.
+#### Installation Steps:
+npm init -y
 
 ### Cors
 Manages cross-origin request security.
 #### Installation Steps:
+npm init cors
 
+### Express
+Handles server functionality.
+#### Installation Steps:
+npm i express
+
+### Socket.io
+An API that facilitates real-time data connections.
+#### Installation Steps:
+npm i socket.io
+
+### Nodemon
+Automatically refreshes the server on code changes.
+#### Installation Steps:
+npm i nodemon
+
+</details>
+
+<details>
+<summary>Server (Backend)</summary>
+
+### React
+Set up the React application.
+#### Installation Steps:
+npx create-react-app
+
+### Copy to Clipboard
+Enables copying meeting IDs or codes.
+#### Installation Steps:
+npm install copy-to-clipboard
+
+### Simple-Peer
+An API that enables one-to-one or one-to-many video or audio communication.
+#### Installation Steps:
+npm install simple-peer
+
+### Socket.io Client
+Facilitates client-side real-time data connections.
+#### Installation Steps:
+npm install socket.io-client
+
+### Tailwind.css
+Handles styling of elements.
+#### Installation Steps:
+npm install -D tailwindcss
+
+### React-Icons
+Provides icon functionality.
+#### Installation Steps:
+npm install react-icons
 
 </details>
 
 
-
-
+# Contributors
+Aniciete, Chile Ramses L.
+Canlas, Lemuel T.
+Rosana, Mark Jerome S.
+Taylor, Erika Ann G.
