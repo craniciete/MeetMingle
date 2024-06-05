@@ -47,65 +47,19 @@ Client
 3. Once in the client directory, run "npm start" to start the application.
 
 # Tools and Technology Used
-Server (Backend)
+<details>
+<summary>Server (Backend)</summary>
 
-**1. Package.json**
-   Generates a package.json file.
-   Installation Steps:
-   npm init -y
+### Package.json
+Generates a package.json file.
 
-Cors
+### Cors
 Manages cross-origin request security.
-Installation Steps:
-npm init cors
-
-Express
-Handles server functionality.
-Installation Steps:
-npm i express
-
-Socket.io
-An API that facilitates real-time data connections.
-Installation Steps:
-npm i socket.io
-
-Nodemon
-Automatically refreshes the server on code changes.
-Installation Steps:
-npm i nodemon
+#### Installation Steps:
 
 
-Client (Frontend)
+</details>
 
-React
-Set up the React application.
-Installation Steps:
-npx create-react-app
 
-Dependencies
-Copy to Clipboard
-Enables copying meeting IDs or codes.
-Installation Steps:
-npm install copy-to-clipboard
-
-Simple-Peer
-An API that enables one-to-one or one-to-many video or audio communication.
-Installation Steps:
-npm install simple-peer
-
-Socket.io Client
-Facilitates client-side real-time data connections.
-Installation Steps:
-npm install socket.io-client
-
-Tailwind.css
-Handles styling of elements.
-Installation Steps:
-npm install -D tailwindcss
-
-React-Icons
-Provides icon functionality.
-Installation Steps:
-npm install react-icons
 
 
