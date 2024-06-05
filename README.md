@@ -30,7 +30,7 @@
 2. Type "cd ./client" and press Enter.
 3. Once in the client directory, run "npm start" to start the application.
 
-# Tech Stack
+## Tech Stack
 <details>
 <summary>Server (BackEnd)</summary>
 
