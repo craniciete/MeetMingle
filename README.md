@@ -35,3 +35,13 @@ Contact Us Section:
 Footer Section:
 - The footer displays copyright information.
 
+ ## How to run
+Server
+1. Begin by opening the terminal.
+2. Enter "cd ./server" and press Enter.
+3. Once inside the server directory, type "nodemon server.js" to launch the websocket.
+   
+Client
+1. Open a new terminal window.
+2. Type "cd ./client" and press Enter.
+3. Once in the client directory, run "npm start" to start the application.
