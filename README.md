@@ -4,8 +4,7 @@
  Meet Mingles’ primary goal is Private Communication: Our platform specializes in one-on-one calls, prioritizing privacy above all else. With secure connections and intuitive controls, users can engage in conversations with ease. Grant camera and mic permissions to initiate communication. Experience the simplicity and security of private communication, tailored specifically for one-on-one interactions.
 
  ## Functionalities and Featues
- ![Screenshot 2024-06-05 203051](https://github.com/craniciete/MeetMingle/assets/112965556/6c2842af-6595-44b8-a746-6635d0ae01cd)
- **Header Section:** The header section includes options for Home, About, Meet, and Contact, providing easy access to explore different sections of the website.
+ :red_telephone_receiver: **Header Section:** The header section includes options for Home, About, Meet, and Contact, providing easy access to explore different sections of the website.
  
  **Hero Section:** The Hero Section serves as the website's main landing page, designed to captivate visitors and provide a glimpse into the essence of Meet Mingle.
  
@@ -13,7 +12,7 @@
 
 **Meet Section:** Within the Meet Section, you'll find a dynamic platform that enables seamless initiation of video calls, fostering genuine connections and meaningful interactions.
 
-**Contact Section:** The Contact section offers a field to contact the developer, though it's currently a prototype and doesn't save the email information. Please note that this feature is still under development and updates are in progress.
+**Contact Section:** The Contact section offers a field to contact the developers. Please note that this feature is still under development and updates are in progress.
 
 **Footer Section:** The footer section displays copyright information.
 
