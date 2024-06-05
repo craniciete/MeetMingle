@@ -114,4 +114,4 @@ npm install react-icons
 1. Aniciete, Chile Ramses L.
 2. Canlas, Lemuel T.
 3. Rosana, Mark Jerome S.
-4. Taylor, Erika Ann G.
+4. Taylor, Erika Anne G.
