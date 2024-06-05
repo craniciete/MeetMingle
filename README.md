@@ -5,10 +5,15 @@
 
  ## Functionalities and Featues
  **Navigation:** The navigation bar includes options for Home, About, Meet, and Contact, providing easy access to explore different sections of the website.
+ 
  **Hero Section:** This section serves as the website's main landing page.
+ 
 **About Section:** The About page offers insight into Meet Mingle's mission. It serves as a platform to showcase the unique edge and focus of the service emphasizing simplicity, security, and meaningful connections.
+
 **Meet Section:** This section is where you can initiate video calls and connect with others.
+
 **Contact Section:** This page offers a field to contact the developer, though it's currently a prototype and doesn't save the email information. Please note that this feature is still under development and updates are in progress.
+
 **Footer Section:** The footer displays copyright information.
 
 # Program Structure
