@@ -111,7 +111,7 @@ npm install react-icons
 [[MEETMINGLE] DOCUMENTATION.pdf](https://github.com/user-attachments/files/15587489/MEETMINGLE.DOCUMENTATION.pdf)
 
 ## Contributors
-1. Aniciete, Chile Ramses L.
-2. Canlas, Lemuel T.
-3. Rosana, Mark Jerome S.
-4. Taylor, Erika Anne G.
+- Aniciete, Chile Ramses L.
+- Canlas, Lemuel T.
+- Rosana, Mark Jerome S.
+- Taylor, Erika Anne G.
