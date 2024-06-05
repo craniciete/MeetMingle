@@ -48,7 +48,7 @@ Client
 
 # Tools and Technology Used
 <details>
-<summary>Server (Backend)</summary>
+<summary>Server (BackEnd)</summary>
 
 ### Package.json
 Generates a package.json file.
@@ -78,7 +78,7 @@ npm i nodemon
 </details>
 
 <details>
-<summary>Server (Backend)</summary>
+<summary>Client (FrontEnd)</summary>
 
 ### React
 Set up the React application.
