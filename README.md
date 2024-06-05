@@ -4,19 +4,20 @@
  Meet Mingles’ primary goal is Private Communication: Our platform specializes in one-on-one calls, prioritizing privacy above all else. With secure connections and intuitive controls, users can engage in conversations with ease. Grant camera and mic permissions to initiate communication. Experience the simplicity and security of private communication, tailored specifically for one-on-one interactions.
 
  ## Functionalities and Featues
- **Navigation:** The navigation bar includes options for Home, About, Meet, and Contact, providing easy access to explore different sections of the website.
+ **Header Section:** The header section includes options for Home, About, Meet, and Contact, providing easy access to explore different sections of the website.
  
- **Hero Section:** This section serves as the website's main landing page.
+ **Hero Section:** The Hero Section serves as the website's main landing page.
  
-**About Section:** The About page offers insight into Meet Mingle's mission. It serves as a platform to showcase the unique edge and focus of the service emphasizing simplicity, security, and meaningful connections.
+**About Section:** The About Section offers insight into Meet Mingle's mission. It serves as a platform to showcase the unique edge and focus of the service emphasizing simplicity, security, and meaningful connections.
 
-**Meet Section:** This section is where you can initiate video calls and connect with others.
+**Meet Section:** This Meet Section is where you can initiate video calls and connect with others.
 
-**Contact Section:** This page offers a field to contact the developer, though it's currently a prototype and doesn't save the email information. Please note that this feature is still under development and updates are in progress.
+**Contact Section:** The Contact section offers a field to contact the developer, though it's currently a prototype and doesn't save the email information. Please note that this feature is still under development and updates are in progress.
 
-**Footer Section:** The footer displays copyright information.
+**Footer Section:** The footer section displays copyright information.
 
 # Program Structure
+![441228293_1371754853496121_719981972747083743_n](https://github.com/craniciete/MeetMingle/assets/112965556/26dd05cd-2f07-4827-a2d9-e7344bcee293)
 
  ## How to run
 **Server**
@@ -107,10 +108,10 @@ npm install react-icons
 
 
 # Documentation
-
+[[MEETMINGLE] DOCUMENTATION.pdf](https://github.com/user-attachments/files/15587489/MEETMINGLE.DOCUMENTATION.pdf)
 
 # Contributors
-Aniciete, Chile Ramses L.
-Canlas, Lemuel T.
-Rosana, Mark Jerome S.
-Taylor, Erika Ann G.
+1. Aniciete, Chile Ramses L.
+2. Canlas, Lemuel T.
+3. Rosana, Mark Jerome S.
+4. Taylor, Erika Ann G.
