@@ -16,7 +16,7 @@
 
 - **Footer Section:** The footer section displays copyright information.
 
-# Program Structure
+## Program Structure
 ![441228293_1371754853496121_719981972747083743_n](https://github.com/craniciete/MeetMingle/assets/112965556/26dd05cd-2f07-4827-a2d9-e7344bcee293)
 
  ## How to run
@@ -107,10 +107,10 @@ npm install react-icons
 </details>
 
 
-# Documentation
+## Documentation
 [[MEETMINGLE] DOCUMENTATION.pdf](https://github.com/user-attachments/files/15587489/MEETMINGLE.DOCUMENTATION.pdf)
 
-# Contributors
+## Contributors
 1. Aniciete, Chile Ramses L.
 2. Canlas, Lemuel T.
 3. Rosana, Mark Jerome S.
