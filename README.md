@@ -108,6 +108,7 @@ npm install -D tailwindcss
 ### React-Icons
 Provides icon functionality.
 #### Installation Steps:
+```bash
 npm install react-icons
 
 </details>
