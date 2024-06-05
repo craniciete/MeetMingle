@@ -4,17 +4,17 @@
  Meet Mingles’ primary goal is Private Communication: Our platform specializes in one-on-one calls, prioritizing privacy above all else. With secure connections and intuitive controls, users can engage in conversations with ease. Grant camera and mic permissions to initiate communication. Experience the simplicity and security of private communication, tailored specifically for one-on-one interactions.
 
  ## Functionalities and Featues
-👉 **Header Section:** The header section includes options for Home, About, Meet, and Contact, providing easy access to explore different sections of the website.
+**Header Section:** The header section includes options for Home, About, Meet, and Contact, providing easy access to explore different sections of the website.
  
-👉 **Hero Section:** The Hero Section serves as the website's main landing page, designed to captivate visitors and provide a glimpse into the essence of Meet Mingle.
+**Hero Section:** The Hero Section serves as the website's main landing page, designed to captivate visitors and provide a glimpse into the essence of Meet Mingle.
  
-👉 **About Section:** The About Section offers insight into Meet Mingle's mission. It serves as a platform to showcase the unique edge and focus of the service emphasizing simplicity, security, and meaningful connections.
+**About Section:** The About Section offers insight into Meet Mingle's mission. It serves as a platform to showcase the unique edge and focus of the service emphasizing simplicity, security, and meaningful connections.
 
-👉 **Meet Section:** Within the Meet Section, you'll find a dynamic platform that enables seamless initiation of video calls, fostering genuine connections and meaningful interactions.
+**Meet Section:** Within the Meet Section, you'll find a dynamic platform that enables seamless initiation of video calls, fostering genuine connections and meaningful interactions.
 
-👉 **Contact Section:** The Contact section offers a field to contact the developers. Please note that this feature is still under development and updates are in progress.
+**Contact Section:** The Contact section offers a field to contact the developers. Please note that this feature is still under development and updates are in progress.
 
-👉 **Footer Section:** The footer section displays copyright information.
+**Footer Section:** The footer section displays copyright information.
 
 # Program Structure
 ![441228293_1371754853496121_719981972747083743_n](https://github.com/craniciete/MeetMingle/assets/112965556/26dd05cd-2f07-4827-a2d9-e7344bcee293)
