@@ -49,10 +49,10 @@ Client
 # Tools and Technology Used
 Server (Backend)
 
-Package.json
-Generates a package.json file.
-Installation Steps:
-npm init -y
+**1. Package.json**
+   Generates a package.json file.
+   Installation Steps:
+   npm init -y
 
 Cors
 Manages cross-origin request security.
