@@ -3,7 +3,7 @@
 ## Main Objective
  Meet Mingle's primary goal is Private Communication: Our platform specializes in one-on-one calls, prioritizing privacy above all else. With secure connections and intuitive controls, users can engage in conversations with ease. Grant camera and mic permissions to initiate communication. Experience the simplicity and security of private communication, tailored specifically for one-on-one interactions.
 
- ## Functionalities and Featues
+ ## Functionalities and Features
 - **Header Section:** The header section includes options for Home, About, Meet, and Contact, providing easy access to explore different sections of the website.
  
 - **Hero Section:** The Hero Section serves as the website's main landing page, designed to captivate visitors and provide a glimpse into the essence of Meet Mingle.
