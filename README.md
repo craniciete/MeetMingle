@@ -1,4 +1,3 @@
-📞
 ## MeetMingle
 
 ## Main Objective
